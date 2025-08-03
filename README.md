@@ -2,9 +2,9 @@
 
 Hi, I’m **Manula Pasan**, a Full-Stack Developer passionate about building modern, reliable, and user-friendly web applications.
 
-I work across the stack to create performant and scalable web apps — combining strong frontend engineering with practical backend solutions. I'm experienced in building with modern frameworks, typed JavaScript, and design systems that prioritize usability and maintainability.
+I work across the stack to create performant and scalable web apps - combining strong frontend engineering with practical backend solutions. I'm experienced in building with modern frameworks, typed JavaScript, and design systems that prioritize usability and maintainability.
 
-I enjoy turning ideas into real-world software — from planning and design all the way to deployment.
+I enjoy turning ideas into real-world software - from planning and design all the way to deployment.
 
 
 
