@@ -1,32 +1,53 @@
-#  About Me:
-I'm a graduate Full-Stack Software Engineer passionate about building impactful and user-friendly software solutions.  <br>I enjoy working on projects that challenge me to learn and grow while contributing to real-world solutions.  
+# About Me
+
+Hi, I’m **Manula Pasan**, a Full-Stack Developer passionate about building modern, reliable, and user-friendly web applications.
+
+I work across the stack to create performant and scalable web apps — combining strong frontend engineering with practical backend solutions. I'm experienced in building with modern frameworks, typed JavaScript, and design systems that prioritize usability and maintainability.
+
+I enjoy turning ideas into real-world software — from planning and design all the way to deployment.
 
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manula-pasan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_an_ul_a) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manula.pasan.14)
-#  Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#  GitHub Stats:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manula-pasan)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_an_ul_a) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manula.pasan.14)
+
+---
+
+## Tech Stack
+
+### Core Tools & Frameworks
+![Remix](https://img.shields.io/badge/Remix-%2317282F.svg?style=for-the-badge&logo=remix&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%230C344B.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Additional Experience
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+
+
 <div align="center">
-  
+
+<!--
+[![](https://github-readme-stats-nu-ten-77.vercel.app/api/top-langs/?username=Manula413&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats-nu-ten-77.vercel.app/api/top-langs/?username=Manula413&theme=dark&layout=compact&cache_seconds=60)
+-->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manula413&theme=dark&hide_border=false)
+
+</div>
 
 
-
-
-[![](https://github-readme-stats-nu-ten-77.vercel.app/api/top-langs/?username=Manula413&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats-nu-ten-77.vercel.app/api/top-langs/?username=Manula413&theme=dark&layout=compact&cache_seconds=60
-)<br/><br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Manula413&theme=dark&hide_border=false)<br/><br/>
-
+<div align="center">
+<br> Always open to collaboration, freelance projects, or building something cool together!
+</div>
