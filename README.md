@@ -49,5 +49,4 @@ I enjoy turning ideas into real-world software - from planning and design all th
 
 
 <div align="center">
-<br> Always open to collaboration, freelance projects, or building something cool together!
 </div>
