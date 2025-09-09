@@ -39,9 +39,9 @@ I enjoy turning ideas into real-world software - from planning and design all th
 
 <div align="center">
 
-
+<!--
 [![](https://github-readme-stats-nu-ten-77.vercel.app/api/top-langs/?username=Manula413&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats-nu-ten-77.vercel.app/api/top-langs/?username=Manula413&theme=dark&layout=compact&cache_seconds=60)
-
+-->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manula413&theme=dark&hide_border=false)
 
