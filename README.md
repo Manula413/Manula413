@@ -1,6 +1,6 @@
 # Hi, I’m Manula Pasan
 
-**Full-Stack Software Engineer** · Building production-grade web applications from database to deployment.
+**Full-Stack Software Developer** · Building production-grade web applications from database to deployment.
 
 I specialize in **Remix**, **React**, **NestJS**, and **TypeScript** - delivering end-to-end features that are clean, scalable, and secure. With 1.5 years of production experience, I've owned full feature delivery cycles across database schema design, backend APIs, and responsive frontend interfaces on AWS.
 
